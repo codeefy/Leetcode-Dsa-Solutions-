@@ -1,8 +1,8 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         
-        dummy = ListNode()
-        res = dummy
+        dummyHead = ListNode()
+        res = dummyHead
 
         total = carry = 0
 
@@ -18,7 +18,7 @@ class Solution:
             
             num = total % 10
             carry = total // 10
-            dummy.next = ListNode(num)
-            dummy = dummy.next
+            dummyHead.next = ListNode(num)
+            dummyHead = dummyHead.next
         
         return res.next
