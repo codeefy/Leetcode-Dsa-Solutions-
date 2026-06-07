@@ -9,6 +9,7 @@ Python Coding Challenge
 | [0001-two-sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
+| [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ Python Coding Challenge
 | ------- |
 | [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
