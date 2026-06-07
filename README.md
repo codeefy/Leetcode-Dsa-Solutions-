@@ -31,6 +31,7 @@ Python Coding Challenge
 | ------- |
 | [0011-container-with-most-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +40,8 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
