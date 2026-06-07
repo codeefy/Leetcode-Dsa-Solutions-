@@ -14,6 +14,7 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
@@ -24,6 +25,7 @@ Python Coding Challenge
 | ------- |
 | [0002-add-two-numbers](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Python Coding Challenge
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
 ## Binary Search
