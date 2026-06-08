@@ -63,6 +63,7 @@ Python Coding Challenge
 |  |
 | ------- |
 | [1075-project-employees-i](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1075-project-employees-i) |
+| [1211-queries-quality-and-percentage](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1661-average-time-of-process-per-machine) |
