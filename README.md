@@ -10,6 +10,7 @@ Python Coding Challenge
 | [0011-container-with-most-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0027-remove-element) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ Python Coding Challenge
 | [0011-container-with-most-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
