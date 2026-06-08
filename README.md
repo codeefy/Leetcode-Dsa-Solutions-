@@ -59,4 +59,8 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
