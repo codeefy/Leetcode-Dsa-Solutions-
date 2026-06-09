@@ -11,6 +11,7 @@ Python Coding Challenge
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0027-remove-element) |
+| [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -45,10 +46,12 @@ Python Coding Challenge
 | ------- |
 | [0011-container-with-most-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
+| [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -67,4 +70,8 @@ Python Coding Challenge
 | [1251-average-selling-price](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1251-average-selling-price) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1661-average-time-of-process-per-machine) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
