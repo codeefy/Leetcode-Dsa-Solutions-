@@ -15,6 +15,7 @@ Python Coding Challenge
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
+| [3379-transformed-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
