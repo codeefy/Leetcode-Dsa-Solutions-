@@ -8,6 +8,7 @@ Python Coding Challenge
 | ------- |
 | [0001-two-sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0027-remove-element) |
@@ -60,6 +61,7 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
 ## Binary Search
@@ -78,4 +80,8 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
