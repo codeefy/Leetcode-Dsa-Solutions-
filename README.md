@@ -98,6 +98,7 @@ Python Coding Challenge
 | [1251-average-selling-price](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1251-average-selling-price) |
 | [1321-restaurant-growth](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1341-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1484-group-sold-products-by-the-date) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1661-average-time-of-process-per-machine) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
