@@ -12,6 +12,7 @@ Python Coding Challenge
 | [0015-3sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0035-search-insert-position) |
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
@@ -75,6 +76,7 @@ Python Coding Challenge
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
 ## Database
 |  |
