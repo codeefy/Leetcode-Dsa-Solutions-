@@ -82,6 +82,7 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0550-game-play-analysis-iv) |
 | [0585-investments-in-2016](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
