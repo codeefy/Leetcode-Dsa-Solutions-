@@ -81,6 +81,7 @@ Python Coding Challenge
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0180-consecutive-numbers) |
 | [0550-game-play-analysis-iv](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0550-game-play-analysis-iv) |
 | [0610-triangle-judgement](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0610-triangle-judgement) |
 | [1075-project-employees-i](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1075-project-employees-i) |
