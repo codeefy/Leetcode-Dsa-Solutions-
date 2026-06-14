@@ -96,6 +96,7 @@ Python Coding Challenge
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1907-count-salary-categories) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Counting Sort
 |  |
 | ------- |
