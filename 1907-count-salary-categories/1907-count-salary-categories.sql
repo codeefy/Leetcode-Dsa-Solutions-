@@ -1,12 +1,15 @@
-# Write your MySQL query statement below
-SELECT 'Low Salary' AS category, 
-       COUNT(if(income<20000,1,null)) AS accounts_count
+SELECT 'Low Salary' AS category,
+       SUM(income < 20000) AS accounts_count
 FROM Accounts
+
 UNION ALL
-SELECT 'Average Salary', 
-       COUNT(if(income>=20000 and income<=50000,1,null))
+
+SELECT 'Average Salary',
+       SUM(income BETWEEN 20000 AND 50000)
 FROM Accounts
+
 UNION ALL
-SELECT 'High Salary', 
-       COUNT(if(income>50000,1,null))
+
+SELECT 'High Salary',
+       SUM(income > 50000)
 FROM Accounts;
