@@ -13,6 +13,7 @@ Python Coding Challenge
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
@@ -48,6 +49,7 @@ Python Coding Challenge
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -121,6 +123,7 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -129,4 +132,12 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
