@@ -14,6 +14,7 @@ Python Coding Challenge
 | [0027-remove-element](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
@@ -24,6 +25,7 @@ Python Coding Challenge
 | [0001-two-sum](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
@@ -140,4 +142,8 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
