@@ -18,6 +18,7 @@ Python Coding Challenge
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3379-transformed-array](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
