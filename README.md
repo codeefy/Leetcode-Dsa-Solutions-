@@ -39,6 +39,7 @@ Python Coding Challenge
 | [0007-reverse-integer](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0013-roman-to-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Python Coding Challenge
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
+| [1903-largest-odd-number-in-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Python Coding Challenge
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
