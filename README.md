@@ -15,6 +15,7 @@ Python Coding Challenge
 | [0035-search-insert-position](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0073-set-matrix-zeroes) |
+| [0283-move-zeroes](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0704-binary-search) |
@@ -55,6 +56,7 @@ Python Coding Challenge
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
