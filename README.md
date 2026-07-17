@@ -82,6 +82,7 @@ Python Coding Challenge
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0409-longest-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -144,6 +145,7 @@ Python Coding Challenge
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/codeefy/Leetcode-Dsa-Solutions-/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
